@@ -44,7 +44,7 @@ handler.all = async function (m) {
     global.kontak2 = [
       [
         owner[0],
-        await conn.getName(owner[0] + "212717457920@s.whatsapp.net"),
+        await conn.getName(owner[0] + "967781974099@s.whatsapp.net"),
         "SILANA AI",
         "https://whatsapp.com",
         true,
@@ -89,9 +89,9 @@ handler.all = async function (m) {
         isForwarded: true,
         forwardingScore: 1,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363285847738492@newsletter",
+          newsletterJid: "120363389247801158@newsletter",
           serverMessageId: 103,
-          newsletterName: `SILANA LITE AI    |   هيا نحو النجاح 🧑‍🏫`,
+          newsletterName: ` ذآك آلامِــــيــــر    |   عالم فصلات 🧑‍🏫`,
         },
         externalAdReply: {
           title: namebot,
