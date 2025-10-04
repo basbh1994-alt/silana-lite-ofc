@@ -9,10 +9,10 @@ handler.all = async function (m) {
   let name = await conn.getName(m.sender);
   let pp =
     "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg";
-  let fotonyu = "https://files.catbox.moe/hnbuh3.jpg";
-  let logo = "https://files.catbox.moe/hnbuh3.jpg"; // define logo aquí
-  let namebot = "SILANA LITE AI";
-  let sig = "https://instagram.com/noureddine_ouafy";
+  let fotonyu = "https://files.catbox.moe/ekek4g.jpg";
+  let logo = "https://files.catbox.moe/ekek4g.jpg"; // define logo aquí
+  let namebot = " ذآك آلامِــــيــــر";
+  let sig = "https://instagram.com/lmm.l1";
 
   try {
     // pp = await this.profilePictureUrl(m.sender, "image");
