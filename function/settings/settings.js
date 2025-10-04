@@ -15,7 +15,7 @@ global.setting = {
 
 global.info = {
  nomerbot : '967781974099',
- pairingNumber : '967781974099',
+ pairingNumber : '967782315067',
  figlet: ' ذآك آلامِــــيــــر', // create a start console display
  nomorwa : '967781974099',
  nameown : ' ذآك آلامِــــيــــر',
