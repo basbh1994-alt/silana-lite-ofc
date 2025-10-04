@@ -10,20 +10,20 @@ global.setting = {
  clearSesi: false, // trash cleaner sessions 
  clearTmp: true, // tmp trash cleaner
  addReply: true, // create with thumbnail in message
- idgc: '120363315668824185@g.us' // id gc buat join only
+ idgc: '120363389247801158@newsletter' // id gc buat join only
  }
 
 global.info = {
  nomerbot : '967781974099',
  pairingNumber : '967781974099',
- figlet: 'silanalite', // create a start console display
+ figlet: ' ذآك آلامِــــيــــر', // create a start console display
  nomorwa : '967781974099',
- nameown : 'NOUREDDINE',
+ nameown : ' ذآك آلامِــــيــــر',
  nomerown : '967781974099',
- packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ packname : ' ذآك آلامِــــيــــر by ',
+ author : ' ذآك آلامِــــيــــر AI',
+ namebot : '乂  ذآك آلامِــــيــــر AI',
+ wm : ' ذآك آلامِــــيــــر LITE.',
  stickpack : 'Whatsapp',
  stickauth : 'SILANA LITE',
  jid: '@s.whatsapp.net'
