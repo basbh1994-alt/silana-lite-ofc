@@ -1442,7 +1442,7 @@ if (templ.gcImg) {
             externalAdReply: {
                 containsAutoReply: true,
                 mediaType: 1,
-                mediaUrl: 'https://telegra.ph/file/74abb87ac6082571db546.jpg',
+                mediaUrl: 'https://files.catbox.moe/ekek4g.jpg',
                 renderLargerThumbnail: true,
                 showAdAttribution: true,
                 sourceUrl: null,
